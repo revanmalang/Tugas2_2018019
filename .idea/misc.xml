@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment1.xml" value="0.1852355072463768" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment2.xml" value="0.2346014492753623" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment3.xml" value="0.25" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment4.xml" value="0.13221884498480244" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment_fragment1.xml" value="0.2346014492753623" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment_fragment2.xml" value="0.2346014492753623" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment_fragment3.xml" value="0.13272543059777103" />
+        <entry key="..\:/KULIAH/Pertemuan2_Fragment/app/src/main/res/layout/fragment_fragment4.xml" value="0.13272543059777103" />
+        <entry key="..\:/Praktikum Mobile/Latihan/TITIP/hehe/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Praktikum Mobile/Latihan/TITIP/hehe/app/src/main/res/layout/fragment1.xml" value="0.358695652173913" />
+        <entry key="..\:/Praktikum Mobile/Latihan/TITIP/hehe/app/src/main/res/layout/fragment2.xml" value="0.3509963768115942" />
+        <entry key="..\:/Praktikum Mobile/Latihan/TITIP/hehe/app/src/main/res/layout/fragment3.xml" value="0.3509963768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
